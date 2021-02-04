@@ -1,0 +1,10 @@
+C:\Users\brili\source\repos\laser-cat-toy\laser-cat-toy-winform\laser-cat-toy\laser-cat-toy\bin\Debug\laser-cat-toy.exe.config
+C:\Users\brili\source\repos\laser-cat-toy\laser-cat-toy-winform\laser-cat-toy\laser-cat-toy\bin\Debug\laser-cat-toy.exe
+C:\Users\brili\source\repos\laser-cat-toy\laser-cat-toy-winform\laser-cat-toy\laser-cat-toy\bin\Debug\laser-cat-toy.pdb
+C:\Users\brili\source\repos\laser-cat-toy\laser-cat-toy-winform\laser-cat-toy\laser-cat-toy\obj\Debug\laser-cat-toy.csprojAssemblyReference.cache
+C:\Users\brili\source\repos\laser-cat-toy\laser-cat-toy-winform\laser-cat-toy\laser-cat-toy\obj\Debug\laser_cat_toy.Form1.resources
+C:\Users\brili\source\repos\laser-cat-toy\laser-cat-toy-winform\laser-cat-toy\laser-cat-toy\obj\Debug\laser_cat_toy.Properties.Resources.resources
+C:\Users\brili\source\repos\laser-cat-toy\laser-cat-toy-winform\laser-cat-toy\laser-cat-toy\obj\Debug\laser-cat-toy.csproj.GenerateResource.cache
+C:\Users\brili\source\repos\laser-cat-toy\laser-cat-toy-winform\laser-cat-toy\laser-cat-toy\obj\Debug\laser-cat-toy.csproj.CoreCompileInputs.cache
+C:\Users\brili\source\repos\laser-cat-toy\laser-cat-toy-winform\laser-cat-toy\laser-cat-toy\obj\Debug\laser-cat-toy.exe
+C:\Users\brili\source\repos\laser-cat-toy\laser-cat-toy-winform\laser-cat-toy\laser-cat-toy\obj\Debug\laser-cat-toy.pdb
